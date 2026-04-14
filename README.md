@@ -40,7 +40,7 @@ Each folder contains:
 
 ## Instance Generation
 
-Instances are synthetic benchmarks adapted from [Zaidi et al. (2022)](https://doi.org/10.1016/j.apenergy.2022.119440) and extended to model advance booking and online decision-making.
+Instances are synthetic benchmarks adapted from [Zaidi et al. (2023)](https://doi.org/10.1007/978-3-031-42616-2_7) and extended to model advance booking and online decision-making.
 
 Each instance consists of *n* charging demands generated as follows:
 
